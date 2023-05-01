@@ -1,7 +1,8 @@
 {
-    "ServerStatus": true,
-    "ServerBuyer": {
-        "788345766585827330": "Nya",
-        "833379819424317501": "ME"
+  "ServerStatus": true,
+  "ServerBuyer": {
+    "_users": {
+      "1": "1"
     }
+  }
 }
